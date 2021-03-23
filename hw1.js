@@ -6,7 +6,6 @@ console.log("Task 1: temperature in Fahrenheit: " + result);
 // Конец задания №1
 
 //Задание №2
-
 var n1 = 10; //численые, для операции с цифрами
 var n2 = 5.5
 var resultNsum = n1 + n2;
