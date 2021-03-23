@@ -1,4 +1,3 @@
-@@ -0,0 +1,39 @@
 //Задание №1
 var temDeg = prompt("Enter temperature in degrece:")
 var result = (9 / 5) * temDeg + 32;
@@ -8,8 +7,6 @@ console.log("Task 1: temperature in Fahrenheit: " + result);
 
 //Задание №2
 
-
-// Конец задания №2
 var n1 = 10; //численые, для операции с цифрами
 var n2 = 5.5
 var resultNsum = n1 + n2;
@@ -23,6 +20,7 @@ var age = null; // специальное значение
 console.log("Task 2.4: it must be: " + typeof age);
 var X;
 console.log("Task 2.5: it must be undefined: " + typeof X);
+// Конец задания №2
 
 //Задание №3
 var admin;
